@@ -1,2 +1,7 @@
+module Main where
+
 main = do
-	putStrLn "Goodbye World!"
+	putStrLn "Hello World!!!"
+
+	print pi
+	return ()
