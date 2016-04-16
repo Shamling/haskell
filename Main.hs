@@ -8,6 +8,6 @@ main = do
 	let squares = map sq [1..10]
 	print squares
 
-	putStrLn "Goodbye World!"
+	putStrLn "Goodbye World!!!"
 
 sq x = x * x
